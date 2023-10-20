@@ -1,3 +1,25 @@
+EKI TESTED 2023-10-20 Thanks OpenTalker & natlamir
+
+[ORIGINAL](https://github.com/OpenTalker/video-retalking)
+
+[ANACONDA](https://www.anaconda.com/download)
+
+[CUDA 11.8](https://developer.nvidia.com/cuda-11-8-0-download-archive)
+
+[CUDA CUDNN 8 (FOR 11.8)](https://developer.nvidia.com/rdp/cudnn-download)
+
+[CMAKE](https://cmake.org/download/)
+
+[checkpoints pre-trained models](https://drive.google.com/drive/folders/18rhjMpxK8LVVxf7PI6XwOidt8Vouv_H0)
+
+NOTE : 
+- MAKESURE INSTALL PATH & ALL USER
+- CMD RUN AS ADMINISTRATOR FOR CONDA
+
+
+
+
+
 <div align="center">
 
 <h2>VideoReTalking <br/> <span style="font-size:12px">Audio-based Lip Synchronization for Talking Head Video Editing In the Wild</span> </h2> 
