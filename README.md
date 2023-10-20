@@ -2,6 +2,8 @@ EKI TESTED 2023-10-20 Thanks OpenTalker & natlamir
 
 [ORIGINAL](https://github.com/OpenTalker/video-retalking)
 
+[TUTOR] (https://www.youtube.com/watch?v=RJ8YK_K4Ne0)
+
 [ANACONDA](https://www.anaconda.com/download)
 
 [CUDA 11.8](https://developer.nvidia.com/cuda-11-8-0-download-archive)
