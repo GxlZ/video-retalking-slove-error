@@ -18,8 +18,22 @@ NOTE :
 - MAKESURE INSTALL PATH & ALL USER
 - CMD RUN AS ADMINISTRATOR FOR CONDA
 
+SOLUTION FOR WINDOWS : 
 
+```sh
+cmake --version
+git clone https://github.com/natlamir/video-retalking.git
+cd video-retalking
+rename natlamir-video-retalking
+conda create -n natlamir_video_retalking python=3.8
+conda activate natlamir_video_retalking
 
+conda install ffmpeg
+conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
+
+pip install -r requirements.txt
+
+```
 
 
 <div align="center">
